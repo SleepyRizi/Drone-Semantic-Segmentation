@@ -114,7 +114,3 @@ Spin up **Dashboard.py** to:
 
 This project is released under the MIT License.  
 If you find it useful, please cite the repository and feel free to open issues or pull requests—collaboration is welcomed!
-
----
-
-*Crafted with a focus on clarity, efficiency, and field applicability.*  
