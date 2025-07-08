@@ -24,7 +24,7 @@ The work is built on the **Semantic Drone Dataset**, which pairs each RGB scene 
 
 | Sample label mask | Histogram of class frequencies |
 |-------------------|--------------------------------|
-| ![Label example](images/3-labelled mask.png) | ![Histogram](images/2-hist-drone.PNG) |
+| ![Label example](images/3-labelled-mask.png) | ![Histogram](images/2-hist-drone.PNG) |
 
 ### 2.1 Class Distribution
 
