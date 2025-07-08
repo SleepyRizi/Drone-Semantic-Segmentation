@@ -76,7 +76,7 @@ Early stopping and learning-rate warm restarts keep convergence stable.
 
 | Predicted mask (overlay) | Segmentation comparison |
 |--------------------------|-------------------------|
-| ![Result A](images/4- result-2-seg.PNG) | ![Result B](images/5- result-segment.PNG) |
+| ![Result A](images/4-result-2-seg.PNG) | ![Result B](images/5-result-segment.PNG) |
 
 A final qualitative assessment on unseen sites confirms robust generalisation to new terrains and lighting.
 
